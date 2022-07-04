@@ -80116,7 +80116,7 @@ s=B.e.aA(178.5)
 r=A.IA("Hi, I'm Mathiew. Nice to meet you.",A.ap(s,0,0,0),B.aaK,B.aE)
 q=B.f.j(B.e.dN(B.f.dt(A.cR(0,Date.now()-$.aF2().a).a,864e8)*0.002738))
 A.d8(b).toString
-return new A.ly(A.fW(A.a([r,B.nw,A.atd("Since beginning my journey as a software developer around "+q+" years ago, I have done remote work for companies, consulted for startups, and collaborated with talented people to create digital products for both buisness and consumer use. I am very out-going, curious by nature, and a problem solver.",A.ap(s,0,0,0),B.aaJ,B.aE)],t.p),B.cc,B.al,B.b3),new A.az(p,o,p,o),null,B.ao,B.aaI)}}
+return new A.ly(A.fW(A.a([r,B.nw,A.atd("Since beginning my journey as a software developer around "+q+" years ago, I have done remote work for companies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I am very out-going, curious by nature, and a problem solver.",A.ap(s,0,0,0),B.aaJ,B.aE)],t.p),B.cc,B.al,B.b3),new A.az(p,o,p,o),null,B.ao,B.aaI)}}
 A.K8.prototype={
 J(a,b){return B.L2}}
 A.K9.prototype={
